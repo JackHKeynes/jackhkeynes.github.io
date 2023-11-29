@@ -1,7 +1,7 @@
 {"showenumerations":true,
  "notes":"",
  "puzzle":[
-	[0,0,0,0,0,0,0,0,0,0],
+	["1→",0,0,0,0,0,0,0,0,0],
 	[{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"L"},"cell":0}],
 	[0,{"style":{"barred":"TL"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"L"},"cell":0},{"style":{"barred":"L"},"cell":0}],
 	[0,{"style":{"barred":"L"},"cell":0},{"style":{"barred":"TL"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"L"},"cell":0},{"style":{"barred":"L"},"cell":0},{"style":{"barred":"L"},"cell":0}],
@@ -19,8 +19,8 @@
  "title":"Outtake 23: Spiral Puzzle",
  "kind":["http://ipuz.org/crossword#1"],
  "clues":{
-	"Across":[
-	{"answer":"test-tube baby","enumeration":"4-4 4","number":1,"clue":"Infant conceived by artificial-insemination"},
+	"Clockwise":[
+	{"answer":"Zapotec","enumeration":"7","number":1,"clue":"---"},
 	{"enumeration":"9","number":10,"clue":"Plated animal"},
 	{"enumeration":"5","number":12,"clue":"Happen"},
 	{"enumeration":"4","number":13,"clue":"Units of Italian currency"},
@@ -38,7 +38,7 @@
 	{"enumeration":"5","number":32,"clue":"Operation to surround and cut off supplies"},
 	{"answer":"out-boxing","enumeration":"3-6","number":33,"clue":"Winning in the ring"},
 	{"enumeration":"12","number":34,"clue":"Being reticent"}],
-	"Down":[
+	"Anticlockwise":[
 	{"answer":"two-way mirror","enumeration":"3-3 6","number":1,"clue":"Glass panel that can only be seen through from one side"},
 	{"enumeration":"6","number":2,"clue":"Duty"},
 	{"enumeration":"5","number":3,"clue":"Bait"},
