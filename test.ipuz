@@ -19,9 +19,9 @@
  "title":"Outtake 23: Spiral Puzzle",
  "kind":["http://ipuz.org/crossword#1"],
  "clues":{
-	"Clockwise":[
+	"Across:Clockwise":[
 	{"answer":"Zapotec","enumeration":"7","number":1,"clue":"---"}],
-	"Anticlockwise":[
+	"Down:Anticlockwise":[
 	{"answer":"sliver","enumeration":"6","number":1,"clue":"---"}],
  "dimensions":{"width":10,"height":10},
  "author":"Jack H Keynes",
