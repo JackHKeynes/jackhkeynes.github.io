@@ -1,7 +1,7 @@
 {"showenumerations":true,
  "notes":"",
  "puzzle":[
-	[{"cell\u2192":"1→"},0,0,0,0,0,0,0,0,0],
+	[{"cell":"1→"},0,0,0,0,0,0,0,0,0],
 	[{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"L"},"cell":0}],
 	[0,{"style":{"barred":"TL"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"L"},"cell":0},{"style":{"barred":"L"},"cell":0}],
 	[0,{"style":{"barred":"L"},"cell":0},{"style":{"barred":"TL"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"T"},"cell":0},{"style":{"barred":"L"},"cell":0},{"style":{"barred":"L"},"cell":0},{"style":{"barred":"L"},"cell":0}],
