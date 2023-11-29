@@ -22,7 +22,7 @@
 	"Across:Clockwise":[
 	{"answer":"Zapotec","enumeration":"7","number":1,"clue":"---"}],
 	"Down:Anticlockwise":[
-	{"answer":"sliver","enumeration":"6","number":1,"clue":"---"}],
+	{"answer":"sliver","enumeration":"6","number":1,"clue":"---"}]},
  "dimensions":{"width":10,"height":10},
  "author":"Jack H Keynes",
  "solution":[
